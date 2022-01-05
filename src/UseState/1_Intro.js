@@ -5,7 +5,7 @@ export default function UseState() {
 
   return (
     <div className="App">
-      <h1>Intro</h1>
+      <h1>Intro!</h1>
       <p>You clicked {count} times</p>
       <button onClick={() => setCount(count + 1)}>Click me</button>
     </div>
